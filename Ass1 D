@@ -1,0 +1,6 @@
+a=2
+b=5
+mod =a%b
+print(mod)
+div=a/b
+print(div)
