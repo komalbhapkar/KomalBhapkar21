@@ -1,0 +1,17 @@
+L=[8,7,5,4,3,2,1]   // List
+print(L)  
+
+L=insert(7,10)
+print("after inserting elements =",L) 
+
+L. remove(5)  //remove the element in list 
+print(L)
+
+L.append(12)  //append the element in list 
+print(L)
+
+L.sort()         // Sorting the element in the list 
+print(L)
+
+L. reverse ()     reverse the element
+print(L)
